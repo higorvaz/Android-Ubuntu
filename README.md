@@ -23,10 +23,9 @@ Follow these commands one by one in the given order:
 
  
 # Support
+>https://maisti.dev.br
 
-Hope this script will help to install Ubuntu in termux in android. If you want more then please visit <a href="https://www.google.com/search?q=adarsh+addee&oq=adarsh+addee&aqs=chrome..69i57j69i60l3j69i65.3270j0j9&client=ms-android-oppo-rvo2&sourceid=chrome-mobile&ie=UTF-8">Adarsh Addee</a> or you can visit also <a href="https://youtube.com/c/MrIdealhat">Mr Idealhat</a>
-
-
+.
 
 
 
