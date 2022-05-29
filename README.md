@@ -6,7 +6,7 @@
 # Installation
 
 <pre>
-apt update && apt upgrade -y && apt install git -y && git clone https://github.com/adarshaddee/Ubuntu.git
+apt update && apt upgrade -y && apt install git -y && git clone https://github.com/higorvaz/Android-Ubuntu.git
 </pre>
 
 
